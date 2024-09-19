@@ -1,9 +1,7 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  output: 'export',
+const nextConfig = {  
   images: {
-    domains: ['145404330.fs1.hubspotusercontent-eu1.net'],
-    unoptimized: true, 
+    domains: ['145404330.fs1.hubspotusercontent-eu1.net']
   },
 };
 
