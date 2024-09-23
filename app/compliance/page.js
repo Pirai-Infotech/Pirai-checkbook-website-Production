@@ -6,7 +6,7 @@ import topRightarrow from "@/public/topRight.svg";
 import compliance from "@/public/complianceImg.svg";
 import complianceMobile from "@/public/complianceMobile.svg";
 import ReadytoGetStart from "../ui/ReadytoGetStart";
-import Faq from "../ui/Faq";
+import Faq from "@/app/ui/Faq";
 
 function page() {
   return (
